@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Ml_Project/Demand-Forecasting-Retail/notebooks/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: Demand-Forcasting-Retail

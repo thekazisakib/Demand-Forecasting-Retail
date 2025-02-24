@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Ml_Project/Demand-Forecasting-Retail/notebooks/mlruns/2
+experiment_id: '2'
+lifecycle_stage: active
+name: prophet-automl-forecasting

@@ -1,0 +1,5 @@
+outs:
+- md5: 68e9bb34068c14920a0e691eacd4e285
+  size: 371108152
+  hash: md5
+  path: prophet_model.pkl

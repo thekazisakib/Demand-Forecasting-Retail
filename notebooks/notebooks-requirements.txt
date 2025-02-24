@@ -1,0 +1,13 @@
+# Data manipulation and analysis
+pandas
+numpy
+
+# Machine learning
+scikit-learn  
+
+# Data visualization
+seaborn
+matplotlib
+
+# Additional libraries
+opendatasets

@@ -1,0 +1,6 @@
+notebooks/data/processed/train.csv filter=lfs diff=lfs merge=lfs -text
+notebooks/data/processed/prophet_model.pkl filter=lfs diff=lfs merge=lfs -text
+notebooks/mlruns/2/26159ff7b99d40d58816dd75f00a9f59/artifacts/prophet_model.pkl filter=lfs diff=lfs merge=lfs -text
+*.largefile_extension filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text

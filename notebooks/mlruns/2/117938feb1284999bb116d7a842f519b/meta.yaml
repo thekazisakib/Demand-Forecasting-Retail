@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Ml_Project/Demand-Forecasting-Retail/notebooks/mlruns/2/117938feb1284999bb116d7a842f519b/artifacts
+end_time: 1739638869130
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: 117938feb1284999bb116d7a842f519b
+run_uuid: 117938feb1284999bb116d7a842f519b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739636519990
+status: 3
+tags: []
+user_id: newth
